@@ -4,7 +4,7 @@
   "description": "Telegram Movie Bot",
   "main": "bot.js",
   "engines": {
-    "node": ">=18.0.0"
+    "node": "20.x"
   },
   "scripts": {
     "start": "node bot.js"
